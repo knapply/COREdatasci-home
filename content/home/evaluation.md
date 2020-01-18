@@ -25,6 +25,5 @@ title = "Evaluation"
   description = "10%"
 +++
 
-Click on the following assessments to learn more about how your STAT 545A and STAT 547M grades are determined. Weights for each are indicated below.
+Click on the following assessments to learn more about how your grades are determined. Weights for each are indicated below.
 
-__Auditing students__: you must still complete and submit all assessments, to be graded on a pass/fail basis. 

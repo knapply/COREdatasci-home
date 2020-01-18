@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Learning Outcomes"
+title = "Learning Objectives"
 subtitle = ""
 
 [design]
@@ -39,20 +39,24 @@ subtitle = ""
  css_class = ""
 +++
 
-### STAT 545A
+### DA 3440: Data Science for Defense Analysis
 
-* Introduction to [R](http://www.r-project.org) and the [RStudio IDE](http://www.rstudio.com/products/rstudio/): scripts, the workspace, RStudio Projects, daily workflow
-* Generate reports from R scripts and [R Markdown](http://rmarkdown.rstudio.com)
-* Coding style, file and project organization
-* Data frames or "tibbles" are the core data structure for data analysis: care for them with the tidyverse
-* Data visualization with [`ggplot2`](http://ggplot2.org)
-* How to write functions and work with R in a functional style
-* Version control with Git; collaboration via [GitHub](https://github.com)
+1. Perform fundamental data analysis tasks, including:
+    + managing and importing structured and unstructured data
+    + data carpentry/wrangling/cleaning/manipulation/transformation
+    + fusing multiple data sources
+2. Gain proficiency in the working with multiple data domains, formats, and schemata.
+3. Confidently conduct exploratory data analysis and visualization.
+4. Write robust code to automate tasks.
+5. Organize data projects for fully-reproducible analysis.
+6. Create rich analytical products to communicate your findings.
 
-### STAT 547M
+### Data Science for Practitioners
 
-* Be the boss of non-numeric data, esp. character and factor
-* Interactive pages, apps, and graphics with [Shiny](http://shiny.rstudio.com)
-* Get data off the web and expose data, code, results on the web
-* Distribute data and code via an R package
-* Automate an analytical pipeline, e.g. via `Make`
+1. Perform fundamental data analysis tasks, including:
+    + managing and importing structured and unstructured data
+    + data carpentry/wrangling/cleaning/manipulation/transformation
+    + fusing multiple data sources
+2. Gain proficiency in the working with multiple data domains, formats, and schemata.
+3. Confidently conduct exploratory data analysis and visualization.
+

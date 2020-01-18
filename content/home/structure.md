@@ -15,7 +15,7 @@ title = "Course Structure"
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
-  name = "[Class Meeting Schedule](/cm_schedule)"
+  name = "[Class Meeting Schedule](/course_schedule)"
   description = ""  
 
 [[feature]]

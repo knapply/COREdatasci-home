@@ -10,13 +10,13 @@ title = "Resources"
   icon = "bookmark"
   icon_pack = "fas"
   name = "[Topic-Specific Books](/resources)"
-  description = ""  
+  description = ""
 
 [[feature]]
-  icon = "book"
-  icon_pack = "fas"
-  name = "[Textbook](https://stat545.com/topics)"
-  description = "Used to be the STAT 545 'Topics tab'"
+  icon = ""
+  icon_pack = ""
+  name = ""
+  description = ""
   
 [[feature]]
   icon = "question"

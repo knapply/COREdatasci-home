@@ -1,7 +1,7 @@
 +++
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Timeline"
@@ -17,20 +17,20 @@ date_format = "January 2, 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "STAT 545A"
-  company = "ESB 2012"
+  title = "DA 3440: Data Science for Defense Analysis"
+  company = "Root Hall, Room ###"
   company_url = ""
   location = "Tuesdays, Thursdays 0930-1100"
-  date_start = "2019-09-03"
-  date_end = "2019-10-17"
+  date_start = "2020-01-01"
+  date_end = "2020-01-01"
   description = ""
 
 [[experience]]
-  title = "STAT 547M"
-  company = "ESB 4192"
+  title = "Data Science for Practitioners"
+  company = "Root Hall, Room ###"
   company_url = ""
-  location = "Tuesdays, Thursdays 1100-1230"
-  date_start = "2020-02-25"
-  date_end = "2020-04-08"
+  location = "Monday-Friday, 0900-1700"
+  date_start = "2020-01-01"
+  date_end = "2020-01-01"
   description = ""
 +++

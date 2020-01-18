@@ -1,0 +1,45 @@
+---
+title: "Course Schedules"
+date: "Updated `r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## DA 3440: Data Science for Defense Analysis
+
+```{r}
+ds4da_schedule <- tibble::tribble(
+  ~Week, ~Topic,
+  1,     "Setting Up",
+  2,     "Data Analysis I",
+  3,     "Data Analysis II",
+  4,     "Data Analysis III",
+  5,     "R as a Programming Language",
+  6,     "Visualization - Going Deeper",
+  7,     "Spatial Data",
+  8,     "Graph Structures and Networks",
+  9,     "Data in the Wild",
+  10,     "Finishing Up"
+)
+
+knitr::kable(ds4da_schedule)
+```
+
+## Data Science for Practitioners
+
+```{r}
+ds4p_schedule <- tibble::tribble(
+  ~Day,  ~Topic,
+  1,     "Setting Up, Data Analysis I",
+  2,     "Data Analysis II",
+  3,     "Data Analysis III",
+  4,     "Visualization - Going Deeper",
+  5,     "Putting it all Together"
+)
+
+knitr::kable(ds4p_schedule)
+```
+

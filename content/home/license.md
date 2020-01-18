@@ -50,12 +50,6 @@ align = "center"
 
 ## Attribution
 
-[Jenny Bryan](https://jennybryan.org/) deserves a huge amount of credit for founding and developing both STAT 545A and 547M over many years, along with her TA's. Thank you!
-
-<p style="text-align:center">
-  <br />Edit this site on <a href = "https://github.com/STAT545-UBC/STAT545-home">github</a>
-</p>
-
-<p style="text-align:center">
-  <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
-</p>
+* Edit this site on [GitHub](https://github.com/knapply/COREdatasci-home/).
+    + This site was inspired by [STAT 545 @ UBC](https://github.com/STAT545-UBC/STAT545-home).
+* This work is licensed under the [Creative Commons Attribution 4.0 International License](href="http://creativecommons.org/licenses/by/4.0/).

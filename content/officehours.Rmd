@@ -3,33 +3,21 @@ title: "Office Hours"
 date: "Updated `r Sys.Date()`"
 ---
 
-```{r, echo = FALSE, warning = FALSE}
-suppressPackageStartupMessages(library(readr))
-suppressPackageStartupMessages(library(DT))
-suppressPackageStartupMessages(library(lubridate))
-suppressPackageStartupMessages(library(here))
-suppressPackageStartupMessages(library(tidyverse))
-suppressPackageStartupMessages(library(knitr))
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Want to talk about the course outside of lecture? Let's talk during these dedicated times. You're always welcome to schedule one-off meetings with us, too.
 
-## STAT 545A
+## DA 3440: Data Science for Defense Analysis
 
 ```{r, echo = FALSE, results='asis'}
-oo545 <- suppressMessages(read_csv(here::here("content", "officehours-545a.csv")))
-oo545 %>% 
-	mutate(Date = dmy(Date),
-		   Day  = wday(Date, label = TRUE)) %>% 
-	select(Person, Day, Date, Time, Place) %>% 
-	arrange(Date, Time) %>% 
-	# DT::datatable()
-	kable()
+ds4da_office_hours <- tibble::tribble(
+  ~Person,                ~Day,        ~Time,       ~Place,
+  "Brendan Knapp",        "",          "",           "",
+  "Chris Callaghan",      "",          "",           ""
+)
+
+knitr::kable(ds4da_office_hours)
 ```
 
-## STAT 547M
 
-```{r, echo = FALSE, results='asis'}
-oo547 <- suppressMessages(read_csv(here("content", "officehours-547m.csv")))
-kable(oo547)
-```
