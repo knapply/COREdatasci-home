@@ -27,5 +27,3 @@ deploy:
   github_token: $GITHUB_TOKEN
   on:
     branch: master
-
-# This is a combination between https://github.com/rstudio-education/stat545-reboot/issues/1 and https://bookdown.org/yihui/blogdown/travis-github.html
