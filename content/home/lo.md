@@ -41,22 +41,22 @@ subtitle = ""
 
 ### DA 3440: Data Science for Defense Analysis
 
-1. Perform fundamental data analysis tasks, including:
-    + managing and importing structured and unstructured data
-    + data carpentry/wrangling/cleaning/manipulation/transformation
-    + fusing multiple data sources
-2. Gain proficiency in the working with multiple data domains, formats, and schemata.
-3. Confidently conduct exploratory data analysis and visualization.
-4. Write robust code to automate tasks.
-5. Organize data projects for fully-reproducible analysis.
-6. Create rich analytical products to communicate your findings.
+Upon successfully completing this course, students will be able to:
+
+* Perform advanced data carpentry.
+* Work with multiple data domains, formats, and schemata.
+* Conduct exploratory data analysis and visualization.
+* Write robust code to automate tasks.
+* Manage data-driven projects for fully-reproducible research.
+* Develop rich analytical products to communicate findings.
+* Be a better-informed consumer of data-driven products.
+* Confidently enroll in advanced analysis courses.
 
 ### Data Science for Practitioners
 
-1. Perform fundamental data analysis tasks, including:
-    + managing and importing structured and unstructured data
-    + data carpentry/wrangling/cleaning/manipulation/transformation
-    + fusing multiple data sources
-2. Gain proficiency in the working with multiple data domains, formats, and schemata.
-3. Confidently conduct exploratory data analysis and visualization.
+Upon successfully completing this course, students will be able to:
+
+* Perform advanced data carpentry.
+* Work with multiple data domains, formats, and schemata.
+* Conduct exploratory data analysis and visualization.
 

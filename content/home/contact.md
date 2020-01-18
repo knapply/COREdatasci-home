@@ -25,6 +25,3 @@ title = "Contact"
   description = "Discussion related to your submissions."
 +++
 
-Contact the teaching team through GitHub Issues in one of these three venues; use email if your message really ought to be private. 
-
-[Find out who you should be contacting for what](/whotocontact).

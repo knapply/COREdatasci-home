@@ -50,6 +50,9 @@ align = "center"
 
 ## Attribution
 
-* Edit this site on [GitHub](https://github.com/knapply/COREdatasci-home/).
-    + This site was inspired by [STAT 545 @ UBC](https://github.com/STAT545-UBC/STAT545-home).
-* This work is licensed under the [Creative Commons Attribution 4.0 International License](href="http://creativecommons.org/licenses/by/4.0/).
+Edit this site on [GitHub](https://github.com/knapply/COREdatasci-home/). 
+
+Inspired by [![STAT 545 @ UBC](https://stat545.stat.ubc.ca/img/stat545-logo-s.png)](https://github.com/STAT545-UBC/STAT545-home)
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-orange.svg)](https://creativecommons.org/licenses/by/4.0/)
+

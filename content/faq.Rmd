@@ -8,12 +8,13 @@ output:
       after_body: include/nothing.html
 ---
 
-### My organization is interested in the _Data Science for Practitioners_ short course. How can I send people to this course?
+### My organization is interested in the _Data Science for Practitioners_ short course. How can we attend?
 
 See the [Outreach and Education Program](https://my.nps.edu/web/core/courses#Out&Ed) on the [CORE Lab's main site](https://my.nps.edu/web/core/home).
 
-### When is the course offered?
+### When is the DA 3440: Data Science for Defense Analysis offered?
 
+TBD
 
 ### Do I need a computer?
 
@@ -33,7 +34,7 @@ YES. You absolutely must have access to a computer on which you can install soft
             + Git is a version control system that we will use for project management, collaboration, and reproducible analysis.
 
 
-### How do I audit DA 3440: Data Science for Defense Analysis?
+### Can I audit DA 3440: Data Science for Defense Analysis?
 
 You'll need to talk to us. See the [NPS Auditing Policy](https://nps.smartcatalogiq.com/en/Current/Academic-Catalog/General-Academic-Information/Auditing) for more information.
 
