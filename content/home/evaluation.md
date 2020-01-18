@@ -9,19 +9,19 @@ title = "Evaluation"
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "<a href='/evaluation/assignments'>Assignments</a>"
+  name = "[Assignments](/evaluation/assignments)"
   description = "75%"
   
 [[feature]]
   icon = "user-friends"
   icon_pack = "fas"
-  name = "<a href='/evaluation/peer-review'>Peer Review</a>"
+  name = "[Peer Review](/evaluation/peer-review)"
   description = "15%"  
   
 [[feature]]
-  icon = "thumbs-up"
+  icon = "hand-paper"
   icon_pack = "fas"
-  name = "<a href='/evaluation/participation'>Participation</a>"
+  name = "[Participation](/evaluation/participation)"
   description = "10%"
 +++
 

@@ -22,6 +22,6 @@ title = "Resources"
   icon = "question"
   icon_pack = "fas"
   name = "[FAQ](/faq)"
-  description = "For prospective students."
+  description = ""
 +++
 
