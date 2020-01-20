@@ -36,7 +36,7 @@ ds4da_schedule <- tibble::tibble(
       "da1-exporting-data")
     ,
     c("da2-text",
-      "da2-dates-times")
+      "da2-dates-and-times")
     ,
     c("da3-relational-data")
     ,
