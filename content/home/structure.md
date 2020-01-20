@@ -4,19 +4,20 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Course Structure"
+title = "Course Plan"
+  
+[[feature]]
+  icon = "calendar-alt"
+  icon_pack = "fas"
+  name = "[Schedule](/course_schedule)"
+  description = ""
+
 
 [[feature]]
   icon = "building"
   icon_pack = "fas"
   name = "[Office Hours](/officehours)"
   description = ""
-  
-[[feature]]
-  icon = "calendar-alt"
-  icon_pack = "fas"
-  name = "[Class Meeting Schedule](/course_schedule)"
-  description = ""  
 
 [[feature]]
   icon = "scroll"

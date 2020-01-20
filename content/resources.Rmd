@@ -22,7 +22,8 @@ init <- tibble::tibble(
     "Data Science from Scratch",
     "Geocomputation with R",
     "Text Mining with R",
-    "Forecasting: Principles and Practice"
+    "Forecasting: Principles and Practice",
+    "Mastering Shiny"
   )
   ,
   link = c(
@@ -39,7 +40,8 @@ init <- tibble::tibble(
     "https://www.oreilly.com/library/view/data-science-from/9781492041122/",
     "https://geocompr.robinlovelace.net/",
     "https://tidytextmining.com/",
-    "https://otexts.org/fpp2/"
+    "https://otexts.org/fpp2/",
+    "https://mastering-shiny.org/"
   )
   ,
   Description = c(
@@ -56,7 +58,8 @@ init <- tibble::tibble(
     "Learn data science techniques by building your own tools and algorithms from scratch.",
     "A book on geographic data analysis, visualization and modeling.",
     "A guide text analysis using tidy data principles",
-    "A comprehensive introduction to forecasting methods for time-series data."
+    "A comprehensive introduction to forecasting methods for time-series data.",
+    "A companion guide to the Shiny documentation to build web apps in R."
   )
   ,
   Emphasis = c(
@@ -73,7 +76,8 @@ init <- tibble::tibble(
     "Data Science",
     "Spatial Analysis",
     "Text Mining",
-    "Forecasting"
+    "Forecasting",
+    "App Development"
   )
   ,
   Language = c(
@@ -90,13 +94,14 @@ init <- tibble::tibble(
     "Python",
     "R",
     "R",
+    "R",
     "R"
   )
   ,
   `Free?` = c(
     TRUE,
     TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE,
-    FALSE, TRUE, TRUE, TRUE
+    FALSE, TRUE, TRUE, TRUE, TRUE
   )
 )
 

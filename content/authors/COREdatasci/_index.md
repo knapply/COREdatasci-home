@@ -17,4 +17,4 @@ social:
   link: 'https://www.facebook.com/pages/category/Government-Organization/The-CORE-Lab-at-the-US-Naval-Postgraduate-School-257980287583444/'
 ---
 
-This page is the main hub for the data science courses delivered by the CORE Lab at the NPS Defense Analysis Department.
+Welcome to the central hub for data science courses delivered by the CORE Lab at the NPS Defense Analysis Department.
