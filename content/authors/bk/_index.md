@@ -10,7 +10,7 @@ organizations:
   
 education:
   courses:
-  - course: MA in Nonproliferation and Terrorism Studies
+  - course: MA in Nonproliferation & Terrorism Studies
     institution: Middlebury Institute of International Studies
     year: 2018
   - course: BA in International Studies

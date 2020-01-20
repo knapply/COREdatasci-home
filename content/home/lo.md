@@ -39,24 +39,17 @@ subtitle = ""
  css_class = ""
 +++
 
-### DA 3440: Data Science for Defense Analysis
+* Upon successfully completing courses, students will be able to:
+    + Perform __advanced data carpentry__.
+    + Work with __multiple data domains, formats, and schemata__.
+    + Conduct exploratory __data analysis and visualization__.
+    + Write robust code to __automate tasks__.
+    + Manage data-driven projects for __fully-reproducible research__.
+    + __Collaborate with teams__ working on data science projects.
+    + Develop rich analytical products to __communicate findings__.
+    + Be __better-informed consumers__ of data science.
 
-Upon successfully completing this course, students will be able to:
+ 
+<!-- + Confidently tackle advanced analytical courework. -->
 
-* Perform advanced data carpentry.
-* Work with multiple data domains, formats, and schemata.
-* Conduct exploratory data analysis and visualization.
-* Write robust code to automate tasks.
-* Manage data-driven projects for fully-reproducible research.
-* Develop rich analytical products to communicate findings.
-* Be a better-informed consumer of data-driven products.
-* Confidently enroll in advanced analysis courses.
-
-### Data Science for Practitioners
-
-Upon successfully completing this course, students will be able to:
-
-* Perform advanced data carpentry.
-* Work with multiple data domains, formats, and schemata.
-* Conduct exploratory data analysis and visualization.
 

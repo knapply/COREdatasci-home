@@ -15,10 +15,10 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "core-big-logo.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "NPS_CORELab"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -27,7 +27,7 @@ logo = "core-big-logo.png"
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r"]  # Add support for highlighting additional languages
+highlight_languages = ["r", "python"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -36,7 +36,7 @@ math = false
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -58,9 +58,9 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
-phone = ""
-address = ""
+email = "corelab@nps.edu"
+# phone = ""
+address = "589 Dyer Road, Monterey, CA 93943"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -71,7 +71,9 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "home", icon_pack = "fas", name = "CORE Lab", link = "https://my.nps.edu/web/core"},
+  {icon = "twitter", icon_pack = "fab", name = "@NPS_CORELab", link = "https://twitter.com/NPS_CORELab"},
+  {icon = "slack", icon_pack = "fab", name = "NPS CORE Lab Network", link = "https://join.slack.com/t/nps-core-lab-network/shared_invite/enQtODQ3MzI5MDg4NTEzLWQ2MmJlNmQxMDY3NjdkMjVmMjZlNTQ4NWYzMTJhM2U3NTQwNjg5OGZlMTZiMWZiMzFhOTVmNTQ2NzFjNWY1NWM"}
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -93,11 +95,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-# map = 2
+map = 2
 # map_api_key = ""
-# latitude = "37.4275"
-# longitude = "-122.1697"
-# zoom = 15
+latitude = "36.5974286"
+longitude = "-121.880161"
+zoom = 5
 
 ############################
 ## Plugins                ##
