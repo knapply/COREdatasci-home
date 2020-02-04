@@ -4,7 +4,7 @@
 
 # COREdatasci-home
 
-Repository that produces the new CORE Data Science website. Uses Hugo with the Academic theme, wrapped by blogdown, and hosted by netlify. 
+Repository that produces the COREdatasci website. Uses Hugo with the Academic theme, wrapped by blogdown, and hosted by netlify. 
 
 ## Workflow
 
